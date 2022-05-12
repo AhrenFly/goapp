@@ -1,0 +1,2 @@
+# goapp
+practice go app
